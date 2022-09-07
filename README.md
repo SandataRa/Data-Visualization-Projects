@@ -1,2 +1,7 @@
-# Kevin-Cookie-Company
-Implementing Power BI dashboard following Kevin Stratvert use case
+# Data Visualization Projects
+
+Find all the dashboards and visualizations I made using the following technology:
+
+- Power BI
+- Web libraries
+- Python 
