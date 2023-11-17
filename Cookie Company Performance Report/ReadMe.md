@@ -11,7 +11,7 @@ For this project, the dataset is stored in my personal Google Sheet and was dire
 
 The dashboard is composed of 2 pages: 
 - Annual Sales Overview, presents the overall sales performance per year
-![page 1 preview]()
+![page 1 preview](https://github.com/SandataRa/Data-Visualization-Projects/blob/main/Cookie%20Company%20Performance%20Report/Preview_annual_overview.JPG)
 
 - Monthly Sales Evolution, focuses on allowing business units to analyze monthly sales results
-![page 2 preview]()
+![page 2 preview](https://github.com/SandataRa/Data-Visualization-Projects/blob/main/Cookie%20Company%20Performance%20Report/Preview_monthly_overview.JPG)
