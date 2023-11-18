@@ -9,7 +9,7 @@ For this project, the data is extracted from [Toastmasters International website
 # Preview of the report
 
 - The main report page presents the important metrics regarding the club's performance. 
-![report preview]()
+![report preview](https://github.com/SandataRa/Data-Visualization-Projects/blob/main/Concordia%20Toastmasters%20Club/preview_report.JPG)
 
 - Detailed drillthrough about filtering the bar chart with Pathway
-![drillthrough preview]()
+![drillthrough preview](https://github.com/SandataRa/Data-Visualization-Projects/blob/main/Concordia%20Toastmasters%20Club/preview_drillthrough.JPG)
